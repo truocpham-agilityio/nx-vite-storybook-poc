@@ -1,6 +1,6 @@
 
 
-# NxViteStorybookPoc
+# Nx Vite Storybook POC
 
 This project was generated using [Nx](https://nx.dev).
 
